@@ -1,3 +1,16 @@
+## Hasil Praktek
+### Gambar 1 (read)
+<img src="https://github.com/risyady/topik-khusus-01/blob/main/Screenshot_2025-03-01_11-30-41.png" alt="Gambar 1" width="300"></img>
+---
+### Gambar 2 (create)
+<img src="https://github.com/risyady/topik-khusus-01/blob/main/Screenshot_2025-03-01_11-31-40.png" alt="Gambar 2" width="300"></img>
+---
+### Gambar 3 (read 10x)
+<img src="https://github.com/risyady/topik-khusus-01/blob/main/Screenshot_2025-03-01_11-31-59.png" alt="Gambar 3" width="300"></img>
+---
+### Gambar 4 (create 10x)
+<img src="https://github.com/risyady/topik-khusus-01/blob/main/Screenshot_2025-03-01_11-32-14.png" alt="Gambar 4" width="300"></img>
+---
 # Sample Backend Golang dengan Echo dan Load Balancer Nginx
 
 ## 1. Deskripsi
